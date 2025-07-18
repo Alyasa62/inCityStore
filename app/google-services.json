@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522757255401",
+    "project_id": "incitystore-6687a",
+    "storage_bucket": "incitystore-6687a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522757255401:android:baa78fd2619c0e4ad00078",
+        "android_client_info": {
+          "package_name": "com.example.incitystore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZ8mtoZ9dKkMihqjzakCHCqGsuNAvOPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
