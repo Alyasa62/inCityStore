@@ -224,6 +224,16 @@ fun TopBar() {
                     }
 
             )
+            Image(
+                painter = painterResource(R.drawable.arrow),
+                contentDescription = "Arrow",
+                modifier = Modifier
+                    .constrainAs(arrow3) {
+
+                        bottom.linkTo(amount.bottom)
+                        start.linkTo(amount.end)
+                    }
+            )
 
             }
 
