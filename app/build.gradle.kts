@@ -70,4 +70,6 @@ dependencies {
     implementation("com.google.accompanist:accompanist-systemuicontroller:0.36.0")
     implementation ("com.google.maps.android:maps-compose:2.0.0")
     implementation ("com.google.android.gms:play-services-maps:17.0.1")
+    implementation(platform("com.google.firebase:firebase-bom:33.1.2"))
+    implementation("com.google.firebase:firebase-database-ktx")
 }
